@@ -8,6 +8,9 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      container:{
+        center: true,
+      },
       gridTemplateColumns: {
         '13': 'repeat(13, minmax(0, 1fr))',
       },
