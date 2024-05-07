@@ -21,6 +21,10 @@
 - Adding Authentication.
 - Adding Metadata.
 
+Demo Account Details (For Learning Purpose Only): 
+Email - user@nextmail.com
+Password - 123456
+
 This Project is hosted on vercel : [ACME Dashboard](https://next-js-course-rho.vercel.app/)
 
 Stay tuned for further updates to this project.
