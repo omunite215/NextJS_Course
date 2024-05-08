@@ -1,6 +1,10 @@
-# Next.js Course Project by Vercel
+# Project - Next.js Course by Vercel
 
-## This Repo can be used as an awesome resource to learn Next.JS
+## This project demonstrates every basic to advanced concept of Next.JS.
+
+## This Repo can be used as a useful resource to learn Next.JS
+
+### Basic knowledge of React is required.
 
 ### Concepts learnt in this course:
 
@@ -21,8 +25,8 @@
 - Adding Authentication.
 - Adding Metadata.
 
-Demo Account Details (For Learning Purpose Only): 
-Email - user@nextmail.com
+Demo Account Details (For Learning Purpose Only):<br>
+Email - user@nextmail.com<br>
 Password - 123456
 
 This Project is hosted on vercel : [ACME Dashboard](https://next-js-course-rho.vercel.app/)
