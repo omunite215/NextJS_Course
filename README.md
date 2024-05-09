@@ -2,7 +2,7 @@
 
 ## This project demonstrates every basic to advanced concept of Next.JS.
 
-## This Repo can be used as a useful resource to learn Next.JS
+## This Repository can be used as a useful resource to learn Next.JS
 
 ### Basic knowledge of React is required.
 
