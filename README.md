@@ -40,3 +40,7 @@ Stay tuned for further updates to this project.
 ## 🛠 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,mysql)](https://skillicons.dev)
+
+<p align="center">
+  <img src="https://github.com/omunite215/NextJS_Course/assets/78680563/160c0991-43df-4b54-ade4-b954001ce143" alt="Om's Logo Image"/>
+</p>
